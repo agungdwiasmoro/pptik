@@ -4,6 +4,7 @@
     $username = "root";
     $password = "";
     $dbname = "pptik";
+    $domain = "localhost/pptik/";
 
     //Fungsi koneksi ke Database
     $koneksi = mysqli_connect($hostname,$username,$password,$dbname);

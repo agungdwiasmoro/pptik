@@ -25,7 +25,7 @@
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6 mb-5 mb-md-0 ps-2 ps-5">  
                     <ul class="list-unstyled">
                         <h4 class="text-white mb-5 fw-bold">UPT</h4><hr>
-                        <li class="mb-3"><a class="text-white" href="#" >PPTIK</a></li>
+                        <li class="mb-3"><a class="text-white" href="http://pptik.umpwr.ac.id" >PPTIK</a></li>
                         <li class="mb-3"><a class="text-white" href="#">Kerjasama</a></li>
                         <li class="mb-3"><a class="text-white" href="http://tracerstudy.umpwr.ac.id">Alumni</a></li>
                         <li class="mb-3"><a class="text-white" href="#">Karir</a></li>
